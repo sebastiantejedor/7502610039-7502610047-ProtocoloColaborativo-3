@@ -1,4 +1,4 @@
-package Ejercicio2;
+package Taller14.Ejercicio2;
 
 public class Estudiante extends Persona {
 
